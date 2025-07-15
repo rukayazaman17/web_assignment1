@@ -1,8 +1,90 @@
 
+.open-sans-normal {
+  font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+
 .heading{
-    font: 600;
+    margin-left: 10%;
+    color: #4E47FF ;
+    font-weight: bold;
+    margin-top: 4%;
+    font-size: larger;
 }
 .head_logo{
     background-color: #4E47FF;
+    margin-right: 10%;
+    color: white;
+    font-weight: bold;
+    padding: 8px 28px;
+    border-radius: 5px;
+    border-style: none;
+    
+    
+
+}
+.header{
+    background-image: url('../images/Hero-bg.png');
+    background-position: center; 
+    background-size: cover;
+    background-repeat: no-repeat;
+    min-height: 100vh;
+    
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+.head_middle{
+    text-align: center;
+    
+}
+.head_add{
+    margin-top: 100px;
+}
+.stay_des{
+    padding: 8px 20px;
+    color: white;
+    background-color: #4E47FF;
+    border-radius: 5px;
+    font-weight: bold;
+    border-style: none;
+    
+}
+.but_des{
+    text-align: center;
+    
+}
+.main_bt_des{
+    background-color: #4E47FF;
+    border-style: none;
+    padding: 5px 27px;
+    border-radius: 5px;
+    color: white;
+    font-weight: bold;
+}
+.body_des{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10%;
+}
+.image_des{
+    border-radius: 35px;
+    
+}
+.img{
+    margin-right: 12%;
+}
+.action_des{
+   
+    margin-left: 12%;
+    align-content: center;
+}
+.Action{
     
 }
