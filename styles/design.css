@@ -120,3 +120,28 @@ nav{
    
    
 }
+.reviews{
+    display: flex;
+    justify-content: space-between;
+}
+.star{
+    display: flex;
+
+}
+.rv{
+    background-color: #F2EDED;
+    max-width: 366.67px;
+    max-height: 243px;
+    padding: 15px 15px;
+}
+.reviewer{
+    display: flex;
+    align-items: center;
+    
+   
+    
+}
+.review_head{
+    text-align: center;
+    font-size: 30px;
+}
