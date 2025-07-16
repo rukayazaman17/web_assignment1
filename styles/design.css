@@ -141,7 +141,79 @@ nav{
    
     
 }
+.name{
+    color:rgb(39, 38, 38)
+}
+.datee{
+    color:rgb(165, 160, 160)
+}
 .review_head{
     text-align: center;
     font-size: 30px;
+}
+.get{
+    background-color: #4E47FF;
+    border-radius: 5px;
+    border-style: none;
+    padding: 7px 15px;
+    color:white;
+}
+.wc{
+    background-color: rgb(243, 228, 228);
+    border-radius: 10px;
+    max-width: 1140px;
+    /* padding:150px 250px;  */
+    margin: 100px 100px;
+   text-align: center;
+   padding-top: 5%;
+   padding-bottom: 5%;
+}
+.wc_pic{
+    margin-top: 3%;
+    border-radius: 30px;
+
+}
+.wc_p{
+    font-size: 12px;
+    color: rgb(207, 204, 204);
+}
+.news{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 10%;
+    margin-right: 10%;
+    align-items: center;
+}
+.text_d{
+    height: 100px;
+    width: 95%;
+
+}
+.foot_head{
+   align-content: center;
+    font-size: 100px;
+}
+.form_b{
+    background-color: #4E47FF;
+    padding: 5px 100px;
+}
+.logos{
+    align-content: center;
+    text-align: center;
+    
+    padding: 150px 150px;
+}
+.log_color{
+    color: #4E47FF;
+    font-size: 50px;
+}
+.info{
+    display: flex;
+    justify-content: space-between;
+}
+.text_d{
+    color: rgb(153, 148, 148);
+}
+.p_d{
+    padding: 5px 5px;
 }
