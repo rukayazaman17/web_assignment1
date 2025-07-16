@@ -88,3 +88,35 @@ nav{
 .Action{
     
 }
+.prod_user{
+     display: flex;
+     justify-content: space-between;
+     margin-left: 10%;
+     margin-right: 10%;
+     
+}
+.users{
+    background-color:rgb(194, 216, 230);
+    margin: auto;
+    max-width: 1140px;
+    max-height: 306px;
+    padding: 50px 50px;
+    text-align: center;
+    border-radius: 15px;
+}
+.prod_color{
+    color: #4E47FF;
+    font-weight: bold;
+    font-size:50px ;
+  
+    
+}
+.comment{
+    color: rgb(160, 156, 156);
+}
+.user_head{
+    text-align: center;
+    
+   
+   
+}
